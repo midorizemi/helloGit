@@ -1,8 +1,8 @@
 #include <stdio>
 
 int main (void){
-
-printf("Hello Github");
+int i = 0;
+printf("Hello Github %d",i);
 
 return 0;
 }
